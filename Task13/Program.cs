@@ -1,6 +1,6 @@
 ﻿//Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
-Console.WriteLine("Введите число, чтобы узнать какая цифра в нем - третья:");
-string str = Console.ReadLine();
+    Console.WriteLine("Введите число, чтобы узнать какая цифра в нем - третья:");
+    string str = Console.ReadLine();
 int i = str.Length;
 int num;
 bool Num;
